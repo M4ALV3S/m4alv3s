@@ -6,7 +6,6 @@ e lógico utilizando as principais tecnologias do mercado como: <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> 
 </div> <br>
