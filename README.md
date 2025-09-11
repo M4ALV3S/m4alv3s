@@ -1,5 +1,5 @@
 ###  Olá! , eu sou o Marcos Alves - M4ALV3S ✌️
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo 📚🖥️ <br>
+Formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo 📚🖥️ <br>
 entusiasta de tecnologia e aficionado por Automação e Inteligência Artificial 🤖 <br>
 atualmente estou focando meus estudos para o Desenvolvimento Backend <br> 
 e lógico utilizando as principais tecnologias do mercado como: <br>
